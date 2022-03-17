@@ -1,0 +1,14 @@
+{
+  "name": "@wcd/melvinsnijders.lit-workshop-fork-l0usyxeg",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve OHgBS9k40mb9bl6wA1Ot --open"
+  },
+  "dependencies": {
+    "firebase": "^8.0.0"
+  }
+}
